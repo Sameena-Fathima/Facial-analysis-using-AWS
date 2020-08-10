@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<head>
 <style>
 .up1{
         margin-top:20px;
@@ -32,6 +33,7 @@ width:400px;
 margin-left:450px;
 }
 </style>
+</head>
 <body>
 <?php
 require_once(__DIR__ . '/vendor/autoload.php');
