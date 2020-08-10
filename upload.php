@@ -1,5 +1,5 @@
 <html>
-<head></head>
+<head>
 <style>
 img {
   border: 1px solid #ddd;
@@ -16,6 +16,7 @@ width:400px;
 margin-left:450px;
 }
 </style>
+</head>
 <body>
 <?php
 require_once(__DIR__ . '/vendor/autoload.php');
