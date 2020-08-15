@@ -9,12 +9,7 @@ img {
   width: 500px;
   height:350px;
 }
-.part{
-        border:solid black 1px;
-height:300px;
-width:400px;
-margin-left:450px;
-}
+
 </style>
 </head>
 <body>
